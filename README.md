@@ -167,19 +167,6 @@ Localização: `src/test/java/com/relogio/Model/TimerModelTest.java`
 - **Princípio DRY**: Métodos auxiliares para evitar duplicação de código
 - **Validação de Entrada**: Spinners com intervalos limitados para prevenir valores inválidos
 
-## 📈 Melhorias Futuras
-
-- [ ] Notificação sonora ao término do timer
-- [ ] Presets de tempo rápido (1min, 5min, 10min, 15min)
-- [ ] Persistência de última configuração utilizada
-- [ ] Tema escuro/claro alternável
-- [ ] Histórico de timers executados
-- [ ] Suporte a múltiplos timers simultâneos
-- [ ] Notificação do sistema operacional ao término
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👤 Autor
 
